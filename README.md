@@ -1,4 +1,4 @@
-![forest](https://user-images.githubusercontent.com/378023/85964520-e1392980-b9f4-11ea-8a27-3d22302cb590.jpg)
+![404](https://user-images.githubusercontent.com/378023/89412096-6f759d80-d761-11ea-8c57-84b30ef3f2b1.png)
 
 <!--
 **simurai/simurai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
